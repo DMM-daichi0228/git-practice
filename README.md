@@ -1,6 +1,2 @@
 
 hoge
-test
-
-hoge hoge
-
